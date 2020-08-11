@@ -1,18 +1,18 @@
 body{
-  background-color: #cffffe;
+  background-color: #ffdbc5;
 }
 
 h1{
-  color:#ffc1f3;
+  color:#423144;
 }
 h3{
-  color: #ffc1f3;
+  color: #cf1b1b;
   text-align: center;
 }
 .light{
-  border-color: #ffc1f3;
+  border-color: #900d0d;
 }
 .thick{
-  border-color:  #ffc1f3;
+  border-color:  #900d0d;
   border-width:  2px;
 }
